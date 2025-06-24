@@ -12,8 +12,11 @@ This project allows you to:
 ## 🚀 Features
 
 ✅ Audio-to-text transcription (MP3, WAV, etc.)
+
 ✅ Smart chatbot with context-aware Q&A based on transcript
+
 ✅ PDF export of conversation
+
 ✅ Email delivery via Gmail SMTP
 
 ---
